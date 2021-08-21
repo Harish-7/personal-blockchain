@@ -1,0 +1,19 @@
+{
+  "name": "personal-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harish-7/personal-blockchain.git"
+  },
+  "author": "Harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harish-7/personal-blockchain/issues"
+  },
+  "homepage": "https://github.com/Harish-7/personal-blockchain#readme"
+}
